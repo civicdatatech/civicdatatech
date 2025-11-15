@@ -1,0 +1,29 @@
+# Civicdata.Tech: Connecting Communities with Open Information
+
+## Our Purpose, Mission, and Approach
+Civicdata.tech is a collaborative initiative uniting organizations, companies, and civic-minded individuals dedicated to enhancing access to vital civic information. Our focus is on local jurisdictions across the United States, including cities, counties, and school districts. By making this information readily available to citizens, community groups, news media, researchers, and other civic organizations, our overarching goal is to foster a more accessible, resilient, and participatory democracy for all.
+
+**Supporting Organizations and Contributors include:**
+OpenStates (by Plural), Unified, CivicPatch, Populist, VoteLight, Creyton Loud, Matthew Copple, Virginia Dooley
+
+## Our Strategy for Civic Information Access
+We are committed to achieving this goal through a thoughtful combination of advanced AI-based technology, robust programming tools, and meticulous human-in-the-loop oversight. This hybrid approach ensures both efficiency and accuracy in our data collection and dissemination. The governance of these tools and processes is collaboratively managed by the Civicdata.tech partners, ensuring transparency and community-driven development.
+
+Our initial phase is concentrated on building a verifiable foundational dataset for all cities and counties in the U.S. This comprehensive baseline includes essential information such as official websites, details on elected officials, contact information, and election cycles. Future planned developments will expand to provide critical election information, including candidate profiles, office specifics, and detailed voting procedures.
+
+## Current Status: Building the Foundation
+We have successfully mapped out the initial data points and are actively engaged in the systematic collection and verification of baseline information for local jurisdictions nationwide. Our technological framework for data acquisition and validation is being continuously refined, and our collaborative governance model is fully operational, guiding our progress and future development.
+
+## Join Us: Support & Collaboration Opportunities
+Civicdata.tech is an ambitious project driven by the desire to empower communities through open information. To accelerate our progress and expand our impact, we are actively seeking support and collaboration in the following areas:
+
+### Hosting Support & Infrastructure
+We are looking for partners who can offer reliable and scalable hosting solutions, cloud resources, or technical infrastructure expertise to support our growing data sets and user base. Contributions in this area are crucial for the stability and reach of our platform.
+
+### Project Promotion & Outreach
+Help us spread the word! If you or your organization can assist in promoting Civicdata.tech to wider audiences – including civic groups, academic institutions, media outlets, and technological communities – your advocacy will be invaluable in attracting both users and potential collaborators.
+
+### Development & Data Contribution
+Individuals and organizations with expertise in data science, software development, data verification, or civic engagement are invited to join our collaborative. Your skills can directly contribute to expanding our dataset, refining our tools, and shaping the future of civic data access.
+
+**Interested in contributing or learning more? Please reach out to us at info@civicdata.tech to discuss how you can help support a more informed democracy.**
