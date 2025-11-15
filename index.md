@@ -4,7 +4,24 @@
 Civicdata.tech is a collaborative initiative uniting organizations, companies, and civic-minded individuals dedicated to enhancing access to vital civic information. Our focus is on local jurisdictions across the United States, including cities, counties, and school districts. By making this information readily available to citizens, community groups, news media, researchers, and other civic organizations, our overarching goal is to foster a more accessible, resilient, and participatory democracy for all.
 
 **Supporting Organizations and Contributors include:**
-OpenStates (by Plural), Unified, CivicPatch, Populist, VoteLight, Creyton Loud, Matthew Copple, Virginia Dooley
+
+- **Organizations:**
+	- [OpenStates (by PluralPolicy)](https://openstates.org/)
+	- [Plural Policy](https://pluralpolicy.com/)
+	- [Unified](https://unified.me/)
+	- [CivicPatch](https://civicpatch.org/)
+	- [Populist](https://populist.us/)
+	- [VoteLight](https://votelight.com/)
+
+- **Contributors:**
+	- Creyton Loud
+	- [Matthew Copple](https://www.linkedin.com/in/matthewcopple/)
+	- [Virginia Dooley](https://www.linkedin.com/in/virginia-dooley/)
+	- [YourFriendFido](https://www.yourfriendfido.com)
+	- [Stump.vote](https://stump.vote/)
+	- [Mappingsupport](https://mappingsupport.com)
+
+**Civic Data Group on Unified:** [https://unified.me/organization/27721/posts?invite=civicdata](https://unified.me/organization/27721)
 
 ## Our Strategy for Civic Information Access
 We are committed to achieving this goal through a thoughtful combination of advanced AI-based technology, robust programming tools, and meticulous human-in-the-loop oversight. This hybrid approach ensures both efficiency and accuracy in our data collection and dissemination. The governance of these tools and processes is collaboratively managed by the Civicdata.tech partners, ensuring transparency and community-driven development.
